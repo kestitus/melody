@@ -1,3 +1,3 @@
 # melody
 Учебный проект Glo Academy
-## Проект выполнил Kestas
+## Проект выполнил: Kestas
